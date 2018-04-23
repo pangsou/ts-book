@@ -1,0 +1,19 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "My Typescript book examples",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pangsou/ts-book.git"
+  },
+  "author": "sunhong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pangsou/ts-book/issues"
+  },
+  "homepage": "https://github.com/pangsou/ts-book#readme"
+}
